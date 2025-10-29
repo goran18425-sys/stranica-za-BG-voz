@@ -1,0 +1,34 @@
+body{
+    background-color: #808080;
+}
+
+h1{
+    color:#0d08ca;
+    background-color:#ffff01;
+
+}
+
+img{
+    width: 500px;
+}
+
+p{
+    font-family:'times new roman';
+    color: white;
+}
+
+#beovoz{
+    background-color: white;
+}
+#polazak{
+    background-color: white;
+}
+
+h2{
+    color:#0d08ca;
+    background-color:#ffff01;
+}
+
+#logo{
+    width: 200px;
+}
